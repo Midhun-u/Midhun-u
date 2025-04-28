@@ -1,3 +1,5 @@
+I'm a passionate Fullstack Web Developer skilled in building dynamic, responsive, and user-friendly web applications. I specialize in both frontend and backend technologies, with experience in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/midhun-u/) 
